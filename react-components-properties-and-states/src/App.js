@@ -11,7 +11,7 @@ class App extends Component {
 	render() {
 		
 		const greetingName = 'Frantfur';
-		
+
 		return (
 			<div>
 				<h1>App</h1>
